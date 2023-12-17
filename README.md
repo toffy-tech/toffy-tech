@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React, Python, Ruby on Rails, Firebase
 - 📫 How to reach me: [toffy](https://twitter.com/toffy_tech)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toffy-tech&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toffy-tech&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toffy-tech&theme=radical)

@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning React, Python, Ruby on Rails, Firebase
-- 📫 How to reach me: https://twitter.com/toffy_tech
+- 📫 How to reach me: [toffy](https://twitter.com/toffy_tech)

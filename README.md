@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toffy-tech&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning React, Python, Ruby on Rails, Firebase
+- 📫 How to reach me: https://twitter.com/toffy_tech
